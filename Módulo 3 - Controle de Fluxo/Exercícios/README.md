@@ -1,9 +1,16 @@
 # Módulo 3 - Controle de Fluxo
 
+## Conceitos
+
+- IF/ELSE: Para decisões simples.
+- CASE: Para múltiplas opções com um mesmo valor de entrada.
+- LOOPS: DO WHILE, REPEAT para repetições.
+- LEAVE / NEXT: Para sair ou continuar loops.
+
 ## Objetivo
 Neste módulo, será abordado o controle de fluxo em Progress 4GL. Técnicas como loops e condições.
 
-## Tópicos Abordados:
+## Tópicos Abordados
 
 - Estruturas condicionais (if, else, case)
 - Laços de repetição (for, while, do-while)
