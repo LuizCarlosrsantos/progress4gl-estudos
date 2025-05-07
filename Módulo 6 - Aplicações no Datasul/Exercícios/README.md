@@ -11,13 +11,11 @@ Neste Módulo, será aplicado seus conhecimentos no ERP Datasul.
 Os dados serão manipulados e consultados em seus módulos específicos.
 
 ## Tópicos Abordados
-
 - Conectando o Progress 4GL ao Datasul
 - Consultas e manipulação de dados no contexto do Datasul
 - Criando rotinas personalizadas para o Datasul
 
 ## Exercícios
-
 - Executar um programa do Datasul via {RUN}.
 - Criar um programa com includes padrão do Datasul.
 - Gerar um relatório {.txt} com dados de clientes.
