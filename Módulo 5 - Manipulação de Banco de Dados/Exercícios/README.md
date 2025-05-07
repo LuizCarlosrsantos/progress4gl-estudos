@@ -10,14 +10,12 @@
 Neste Módulo, será apresentado a manipulação de dados no banco de dados usando Progress 4GL (CRUD).
 
 ## Tópicos Abordados
-
 - Conexão com o banco de dados
 - Consultas básicas (SELECT)
 - Inserção de dados (INSERT)
 - Atualização e exclusão de dados (UPDATE, DELETE)
 
 ## Exercícios
-
 - Listar todos os registros da tabela cliente {FOR EACH}.
 - Exibir somente os clientes do estado 'SP'.
 - Criar novo cliente com {CREATE}.
