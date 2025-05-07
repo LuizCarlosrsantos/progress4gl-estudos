@@ -17,7 +17,7 @@ Neste módulo, será apresentado a sintaxe do Progress 4GL e seus tipos de dados
 - Calcular e exibir o dobro de um número.
 - Calcular o IMC dado peso e altura.
 - Verificar se a idade digitada é maior que 18.
-- Criar uma variável [ATIVO] do tipo {LOGICAL} e exibir com DISPLAY.
+- Criar uma variável "ATIVO" do tipo {LOGICAL} e exibir com DISPLAY.
 - Escrever um programa que converta Celsius para Fahrenheit.
 - Exibir a diferença entre duas datas.
 - Escrever um programa com comentários explicando cada tipo de dado.
