@@ -1,6 +1,6 @@
 # Módulo 6 - Aplicações no Datasul
 
-## Conceito:
+## Conceitos
 - Datasul: Estrutura modular, inclui fontes padrão e acesso controlado a dados.
 - Includes e padrões: Uso de includes como cabecalho.i, parametros.i.
 - Chamadas: Programas chamam outros com RUN.
@@ -10,13 +10,13 @@
 Neste Módulo, será aplicado seus conhecimentos no ERP Datasul.
 Os dados serão manipulados e consultados em seus módulos específicos.
 
-## Tópicos Abordados:
+## Tópicos Abordados
 
 - Conectando o Progress 4GL ao Datasul
 - Consultas e manipulação de dados no contexto do Datasul
 - Criando rotinas personalizadas para o Datasul
 
-## Exercícios:
+## Exercícios
 
 - Executar um programa do Datasul via {RUN}.
 - Criar um programa com includes padrão do Datasul.
