@@ -1,10 +1,10 @@
 # Módulo 6 - Aplicações no Datasul
 
 ## Conceito:
-Tabelas: Acesso via FIND, FOR EACH.
-Buffers: Representação da linha da tabela.
-Comandos: CREATE, DELETE, ASSIGN.
-Transações: Bloco DO TRANSACTION garante atomicidade.
+- Datasul: Estrutura modular, inclui fontes padrão e acesso controlado a dados.
+- Includes e padrões: Uso de includes como cabecalho.i, parametros.i.
+- Chamadas: Programas chamam outros com RUN.
+- Relatórios: Com comandos OUTPUT TO e PUT.
 
 ## Objetivo
 Neste Módulo, será aplicado seus conhecimentos no ERP Datasul.
