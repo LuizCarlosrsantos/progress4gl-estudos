@@ -1,7 +1,6 @@
 # Módulo 2 - Sintaxe e Tipos de Dados
 
 ## Conceitos
-
 - Variáveis: Tipagem explícita, sensível ao tipo.
 - Tipos: CHARACTER (texto), INTEGER, DECIMAL, DATE, LOGICAL (booleano).
 - Entrada e saída: DISPLAY, UPDATE, INPUT.
@@ -11,7 +10,6 @@
 Neste módulo, será apresentado a sintaxe do Progress 4GL e seus tipos de dados utilizados.
 
 ## Tópicos Abordados
-
 - Tipos de dados (Inteiros, caracteres, lógicos, etc.).
 - Declaração e inicialização de variáveis.
 - Estrutura de controle básica (if, else).
