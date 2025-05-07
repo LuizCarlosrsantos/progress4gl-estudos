@@ -1,5 +1,11 @@
 # Módulo 5 - Manipulação de Banco de Dados
 
+## Conceito
+Tabelas: Acesso via FIND, FOR EACH.
+Buffers: Representação da linha da tabela.
+Comandos: CREATE, DELETE, ASSIGN.
+Transações: Bloco DO TRANSACTION garante atomicidade.
+
 ## Objetivo
 Neste Módulo, será apresentado a manipulação de dados no banco de dados usando Progress 4GL (CRUD).
 
