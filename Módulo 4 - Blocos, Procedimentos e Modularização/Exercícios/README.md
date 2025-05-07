@@ -1,7 +1,6 @@
 # Módulo 4 - Blocos, Procedimentos e Modularização
 
 ## Conceitos
-
 - BEGIN / END: Estrutura básica de blocos.
 - PROCEDURE: Subprogramas reutilizáveis.
 - Parâmetros: INPUT, OUTPUT, INPUT-OUTPUT.
@@ -12,13 +11,11 @@ Neste módulo, será empregado a modularização em seu código Progress 4GL, us
 Também será empregado a divisão do código em blocos.
 
 ## Tópicos Abordados
-
 - Criação de blocos e procedimentos
 - Passagem de parâmetros para funções e procedimentos
 - Modularização do código
 
 ## Exercícios
-
 - Criar uma {PROCEDURE} que exiba uma mensagem.
 - {PROCEDURE} que receba "nome" e "idade" e exiba formatado.
 - Função que retorne o dobro de um número.
