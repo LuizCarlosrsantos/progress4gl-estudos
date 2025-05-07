@@ -16,8 +16,8 @@ Neste módulo, será abordado o controle de fluxo em Progress 4GL. Técnicas com
 - CASE para menu com 3 opções (exibir, salvar, sair).
 - Laço que exibe números de 1 a 10.
 - Laço com contador de tentativas.
-- Repetição que só para com "sair".
-- Usar "NEXT" para pular número 5 em um loop de 1 a 10.
-- Usar "LEAVE" ao atingir determinado valor.
+- Repetição que só para com o resultado "sair".
+- Usar {NEXT} para pular número 5 em um loop de 1 a 10.
+- Usar {LEAVE} ao atingir determinado valor.
 - Programa que simula login com 3 tentativas.
 - LOOP com cálculo de média de 5 números.
